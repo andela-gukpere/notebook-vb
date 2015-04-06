@@ -1,0 +1,78 @@
+C:\Users\fbi\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fbi\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NoteBook App.vbproj.GenerateResource.Cache
+C:\Users\fbi\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\NoteBook.exe
+C:\Users\fbi\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\NoteBook.pdb
+C:\Users\fbi\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\NoteBook.xml
+C:\Users\fbi\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NoteBook.exe
+C:\Users\fbi\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NoteBook.xml
+C:\Users\fbi\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NoteBook.pdb
+C:\Users\fbi\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AboutBox1.resources
+C:\Users\fbi\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\fbi\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\fbi\Documents\Visual Studio 2008\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Splash.resources
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\WindowsApplication1\bin\Debug\NoteBook.exe
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\WindowsApplication1\bin\Debug\NoteBook.pdb
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\WindowsApplication1\bin\Debug\NoteBook.xml
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AboutBox1.resources
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Splash.resources
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\WindowsApplication1\obj\Debug\NoteBook App.vbproj.GenerateResource.Cache
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\WindowsApplication1\obj\Debug\NoteBook.exe
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\WindowsApplication1\obj\Debug\NoteBook.xml
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\WindowsApplication1\obj\Debug\NoteBook.pdb
+\\Apache\g$\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\WindowsApplication1\obj\Debug\NoteBook.exe
+\\Apache\g$\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\WindowsApplication1\obj\Debug\NoteBook.xml
+\\Apache\g$\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\WindowsApplication1\obj\Debug\NoteBook.pdb
+\\Apache\g$\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\WindowsApplication1\bin\Debug\NoteBook.exe
+\\Apache\g$\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\WindowsApplication1\bin\Debug\NoteBook.pdb
+\\Apache\g$\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\WindowsApplication1\bin\Debug\NoteBook.xml
+\\Apache\g$\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+\\Apache\g$\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.AboutBox1.resources
+\\Apache\g$\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+\\Apache\g$\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+\\Apache\g$\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Splash.resources
+\\Apache\g$\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\WindowsApplication1\obj\Debug\NoteBook App.vbproj.GenerateResource.Cache
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NoteBook.exe
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NoteBook.xml
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NoteBook.pdb
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\NoteBook.exe
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\NoteBook.pdb
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\NoteBook.xml
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\WindowsApplication1.AboutBox1.resources
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\WindowsApplication1.Splash.resources
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NoteBook App.vbproj.GenerateResource.Cache
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\obj\Debug\NoteBook.exe
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\obj\Debug\NoteBook.xml
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\obj\Debug\NoteBook.pdb
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\bin\Debug\NoteBook.exe
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\bin\Debug\NoteBook.pdb
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\bin\Debug\NoteBook.xml
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\obj\Debug\WindowsApplication1.AboutBox1.resources
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\obj\Debug\WindowsApplication1.Splash.resources
+G:\desktop\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\obj\Debug\NoteBook App.vbproj.GenerateResource.Cache
+G:\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\obj\Debug\NoteBook.exe
+G:\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\obj\Debug\NoteBook.xml
+G:\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\obj\Debug\NoteBook.pdb
+G:\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\bin\Debug\NoteBook.exe
+G:\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\bin\Debug\NoteBook.pdb
+G:\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\bin\Debug\NoteBook.xml
+G:\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+G:\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\obj\Debug\WindowsApplication1.AboutBox1.resources
+G:\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+G:\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+G:\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\obj\Debug\WindowsApplication1.Splash.resources
+G:\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\obj\Debug\NoteBook App.vbproj.GenerateResource.Cache
+C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\obj\Debug\NoteBook.exe
+C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\obj\Debug\NoteBook.xml
+C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\obj\Debug\NoteBook.pdb
+C:\Users\goodson\Documents\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\obj\Debug\NoteBook.exe
+C:\Users\goodson\Documents\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\obj\Debug\NoteBook.xml
+C:\Users\goodson\Documents\Visual Studio 2008\Projects\NoteBook\WindowsApplication1\obj\Debug\NoteBook.pdb

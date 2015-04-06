@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="NoteBookApp">
+</Property><Property Name="Solution File" Value="C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\NoteBook\NoteBookApp.sln">
+</Property><Property Name="User Options File" Value="C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\NoteBook\NoteBookApp.suo">
+</Property><Property Name="Date" Value="Saturday, October 15, 2011">
+</Property><Property Name="Time" Value="16:54 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="NoteBookApp.sln" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\NoteBook\Backup\NoteBookApp.sln">
+</Event><Event ErrorLevel="0" Project="" Source="NoteBookApp.suo" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\NoteBook\Backup\NoteBookApp.suo">
+</Event><Event ErrorLevel="0" Project="NoteBook App" Source="WindowsApplication1\NoteBook App.vbproj" Description="Project file successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\NoteBook\Backup\WindowsApplication1\NoteBook App.vbproj">
+</Event><Event ErrorLevel="0" Project="NoteBook App" Source="WindowsApplication1\NoteBook App.vbproj.user" Description="Project user file successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\NoteBook\Backup\WindowsApplication1\NoteBook App.vbproj.user">
+</Event><Event ErrorLevel="0" Project="NoteBook App" Source="WindowsApplication1\AboutBox1.Designer.vb" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\NoteBook\Backup\WindowsApplication1\AboutBox1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="NoteBook App" Source="WindowsApplication1\AboutBox1.vb" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\NoteBook\Backup\WindowsApplication1\AboutBox1.vb">
+</Event><Event ErrorLevel="0" Project="NoteBook App" Source="WindowsApplication1\ApplicationEvents.vb" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\NoteBook\Backup\WindowsApplication1\ApplicationEvents.vb">
+</Event><Event ErrorLevel="0" Project="NoteBook App" Source="WindowsApplication1\Form1.vb" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\NoteBook\Backup\WindowsApplication1\Form1.vb">
+</Event><Event ErrorLevel="0" Project="NoteBook App" Source="WindowsApplication1\Form1.Designer.vb" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\NoteBook\Backup\WindowsApplication1\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="NoteBook App" Source="WindowsApplication1\My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\NoteBook\Backup\WindowsApplication1\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="NoteBook App" Source="WindowsApplication1\My Project\Application.Designer.vb" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\NoteBook\Backup\WindowsApplication1\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="NoteBook App" Source="WindowsApplication1\My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\NoteBook\Backup\WindowsApplication1\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="NoteBook App" Source="WindowsApplication1\My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\NoteBook\Backup\WindowsApplication1\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="NoteBook App" Source="WindowsApplication1\nbmodule.vb" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\NoteBook\Backup\WindowsApplication1\nbmodule.vb">
+</Event><Event ErrorLevel="0" Project="NoteBook App" Source="WindowsApplication1\Splash.Designer.vb" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\NoteBook\Backup\WindowsApplication1\Splash.Designer.vb">
+</Event><Event ErrorLevel="0" Project="NoteBook App" Source="WindowsApplication1\Splash.vb" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\NoteBook\Backup\WindowsApplication1\Splash.vb">
+</Event><Event ErrorLevel="0" Project="NoteBook App" Source="WindowsApplication1\My Project\Application.myapp" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\NoteBook\Backup\WindowsApplication1\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="NoteBook App" Source="WindowsApplication1\My Project\Settings.settings" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\NoteBook\Backup\WindowsApplication1\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="NoteBook App" Source="WindowsApplication1\App.ico" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\NoteBook\Backup\WindowsApplication1\App.ico">
+</Event><Event ErrorLevel="0" Project="NoteBook App" Source="WindowsApplication1\AboutBox1.resx" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\NoteBook\Backup\WindowsApplication1\AboutBox1.resx">
+</Event><Event ErrorLevel="0" Project="NoteBook App" Source="WindowsApplication1\Form1.resx" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\NoteBook\Backup\WindowsApplication1\Form1.resx">
+</Event><Event ErrorLevel="0" Project="NoteBook App" Source="WindowsApplication1\My Project\Resources.resx" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\NoteBook\Backup\WindowsApplication1\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="NoteBook App" Source="WindowsApplication1\Splash.resx" Description="File successfully backed up as C:\Users\gooDsn\Documents\Visual Studio 2008\Projects\NoteBook\Backup\WindowsApplication1\Splash.resx">
+</Event><Event ErrorLevel="0" Project="NoteBook App" Source="WindowsApplication1\NoteBook App.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="NoteBook App" Source="WindowsApplication1\NoteBook App.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="NoteBookApp.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="NoteBookApp.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="NoteBook App" Source="WindowsApplication1\NoteBook App.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
